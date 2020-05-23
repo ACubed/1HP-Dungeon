@@ -26,7 +26,7 @@ The idea behind this project is to have a hero that climbs a 'tower' by clearing
 <tr>
     <td style="text-align: center;">
         <a href="https://github.com/aaronsalo">
-            <img src="https://avatars2.githubusercontent.com/u/55711630?s=460&v=4" width="75px;"style="border:solid;"/>
+            <img src="https://avatars2.githubusercontent.com/u/55711630?s=460&v=4" width="125px;"style="border:solid;"/>
             <br/>
             <sub>
                 <b>Aaron Salo</b>
