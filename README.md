@@ -44,7 +44,7 @@ The idea behind this project is to have a hero that climbs a 'tower' by clearing
     </td>
         <td style="text-align: center;">
         <a href="https://github.com/arvind-maan">
-            <img src="https://avatars3.githubusercontent.com/u/29124297?s=460&u=a3056b42ea57a516d23f726b109916c1f2dc47e9&v=4" width="75px;" style="border:solid;"/>
+            <img src="https://avatars3.githubusercontent.com/u/29124297?s=460&u=a3056b42ea57a516d23f726b109916c1f2dc47e9&v=4" width="125px;" style="border:solid;"/>
             <br/>
             <sub>
                 <b>Arvind Maan</b>
