@@ -53,7 +53,7 @@ The idea behind this project is to have a hero that climbs a 'tower' by clearing
     </td>
         <td style="text-align: center;">
         <a href="https://github.com/cadenchabot">
-            <img src="https://avatars2.githubusercontent.com/u/46728740?s=460&u=f074d2ef6f1a9548be2a5c7ab68e0afe6890269f&v=4" width="75px;" style="border:solid;"/>
+            <img src="https://avatars2.githubusercontent.com/u/46728740?s=460&u=f074d2ef6f1a9548be2a5c7ab68e0afe6890269f&v=4" width="125px;" style="border:solid;"/>
             <br/>
             <sub>
                 <b>Caden Chabot</b>
