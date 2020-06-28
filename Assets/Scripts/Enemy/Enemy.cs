@@ -8,7 +8,7 @@ public abstract class Enemy : MonoBehaviour{
     [SerializeField] public float attackDamage;
     [SerializeField] public GameObject player; //WHO AM I ATTACKING?
     [SerializeField] public bool activated; //WHO AM I ATTACKING?
-    [SerializeField] private int pointsToGive = 5;
+    private int pointsToGive = 5;
 
     public void Awake(){
         player = GameObject.Find("Hero"); 

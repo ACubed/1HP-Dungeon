@@ -5,13 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Real Scenes/Main Menu.unity
     guid: cfb295d5bb1a57b45a39cf71893b5c16
   - enabled: 1
-    path: Assets/Scenes/Test Scenes/ArvindScene.unity
-    guid: 4b61290f039544377b16b94615016099
+    path: Assets/Scenes/Real Scenes/yea boi.unity
+    guid: d1ecae541c8f447b9bdcc545b3dcf040
   m_configObjects: {}
