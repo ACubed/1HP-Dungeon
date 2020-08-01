@@ -20,7 +20,7 @@ The hero exists in a grid of randomly generated rooms (as seen above), these roo
 
 The idea behind this project is to have a hero that climbs a 'tower' by clearing every room and defeating the floor boss. 
 
-## Contributers
+## Contributors
 
 <table>
 <tr>
